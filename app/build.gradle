@@ -58,4 +58,7 @@ dependencies {
     annotationProcessor "androidx.room:room-compiler:2.4.0-alpha03"
 
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+
+    implementation 'org.parceler:parceler-api:1.1.12'
+    annotationProcessor 'org.parceler:parceler:1.1.12'
 }
